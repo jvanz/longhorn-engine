@@ -24,7 +24,7 @@ require (
 	github.com/sirupsen/logrus v1.4.1
 	github.com/urfave/cli v1.22.1
 	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
-	golang.org/x/sys v0.0.0-20190524152521-dbbf3f1254d4
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.2 // indirect
 	google.golang.org/grpc v1.21.0
 	gopkg.in/check.v1 v1.0.0-20160105164936-4f90aeace3a2
